@@ -1,5 +1,5 @@
 module.exports = {
-    prefix: '!',
+    prefix: '%',
     nodes: [{
         host: "lavalink.jirayu.net",
         password: "youshallnotpass",
@@ -11,6 +11,6 @@ module.exports = {
         clientId: "a568b55af1d940aca52ea8fe02f0d93b",
         clientSecret: "e8199f4024fe49c5b22ea9a3dd0c4789"
     },
-    botToken: "MTI2MDgyNTU4NjE1OTMyMTE2OQ.GjRlbl.1A9jEg_wss78hdcgvM73xW1wRelBxb0zMarHJ0",
+    botToken: "ODM2MjEzNTAwNzQ4NjI4MDAw.GO6z-Z.gPpxxXr2mLsNfGahgeMX2NKE8EK2EnzKiblZ5E",
     embedColor: "#0061ff"
 };
